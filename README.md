@@ -1,6 +1,7 @@
 # ft_printf
 ## Because ft_putnbr() and ft_putstr() aren’t enough
-The ft_printf project is about recoding the printf() function. It is designed to handle using a variable number of arguments.
+
+![ft_printf_icon](https://github.com/Thais-Malheiros/ft_printf/blob/main/ft_printf.png)
 
 ## Description
 
